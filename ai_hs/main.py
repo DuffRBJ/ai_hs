@@ -1,2 +1,3 @@
-print("hello world")
-print(1+2)
+from game import game
+currGame=game()
+print("test")
